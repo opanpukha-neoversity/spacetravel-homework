@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.spacetravel.service.PlanetCrudServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-06-10T15:50:41.572Z" hostname="oleksii-home" time="0.056">
+  <properties/>
+  <testcase name="shouldCreateReadUpdateAndDeletePlanet()" classname="com.example.spacetravel.service.PlanetCrudServiceTest" time="0.036"/>
+  <testcase name="shouldRejectInvalidPlanetId()" classname="com.example.spacetravel.service.PlanetCrudServiceTest" time="0.008"/>
+  <system-out><![CDATA[2026-06-10T17:50:41.574+02:00  INFO 44768 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.spacetravel.service.PlanetCrudServiceTest]: PlanetCrudServiceTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-06-10T17:50:41.577+02:00  INFO 44768 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.spacetravel.SpaceTravelApplication for test class com.example.spacetravel.service.PlanetCrudServiceTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
